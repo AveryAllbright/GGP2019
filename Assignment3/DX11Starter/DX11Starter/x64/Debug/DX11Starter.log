@@ -1,5 +1,11 @@
-﻿  Game.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
+﻿  compilation object save succeeded; see Z:\IGMProfile\Documents\GitHub\GGP2019\Assignment3\DX11Starter\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see Z:\IGMProfile\Documents\GitHub\GGP2019\Assignment3\DX11Starter\x64\Debug\VertexShader.cso
+  DXCore.cpp
+  Entity.cpp
+  Game.cpp
   Main.cpp
-  DX11Starter.vcxproj -> M:\School\GGP\OtE4\Assignment3\DX11Starter\x64\Debug\DX11Starter.exe
+  Material.cpp
+  Mesh.cpp
+  SimpleShader.cpp
+  Generating Code...
+  DX11Starter.vcxproj -> Z:\IGMProfile\Documents\GitHub\GGP2019\Assignment3\DX11Starter\x64\Debug\DX11Starter.exe
