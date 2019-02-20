@@ -1,5 +1,13 @@
-﻿  Game.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
+﻿  compilation object save succeeded; see C:\Users\VaanEverick\Documents\GitHub\GGP2019\Assignment4\DX11Starter\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\VaanEverick\Documents\GitHub\GGP2019\Assignment4\DX11Starter\x64\Debug\VertexShader.cso
+  SimpleShader.cpp
+  Mesh.cpp
+  Material.cpp
   Main.cpp
-  DX11Starter.vcxproj -> M:\School\GGP\OtE4\Assignment3\DX11Starter\x64\Debug\DX11Starter.exe
+  Game.cpp
+  Entity.cpp
+  DXCore.cpp
+  Camera.cpp
+  Generating Code...
+  LINK : C:\Users\VaanEverick\Documents\GitHub\GGP2019\Assignment4\DX11Starter\x64\Debug\DX11Starter.exe not found or not built by the last incremental link; performing full link
+  DX11Starter.vcxproj -> C:\Users\VaanEverick\Documents\GitHub\GGP2019\Assignment4\DX11Starter\x64\Debug\DX11Starter.exe
